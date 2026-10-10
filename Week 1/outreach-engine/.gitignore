@@ -39,3 +39,9 @@ coverage/
 # project specific
 data/*
 !data/.gitkeep
+# Added by git setup script
+node_modules/
+.env.*.local
+*.log
+dist/
+build/

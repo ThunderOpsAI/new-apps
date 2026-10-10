@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Added by git setup script
+node_modules/
+.env.local
+.env.*.local
+*.log
+dist/
+build/
+venv/
+__pycache__/

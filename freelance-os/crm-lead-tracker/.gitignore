@@ -3,3 +3,14 @@ node_modules
 npm-debug.log*
 .DS_Store
 tsconfig.tsbuildinfo
+# Added by git setup script
+node_modules/
+.env
+.env.local
+.env.*.local
+*.log
+dist/
+build/
+.next/
+venv/
+__pycache__/
